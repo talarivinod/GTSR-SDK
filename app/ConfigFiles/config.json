@@ -1,0 +1,10 @@
+{
+    "connectionString": "mongodb://localhost:27017/gtsrsdk",
+    "apiURL": "http://localhost:8080/api",
+    "secretkey":"GTSRSDK2020",
+    "mailService":"gmail.com",
+    "authMail": "gtsrsdk@gmail.com",
+    "authMailPassword": "Abcd@1234",
+    "webBaseURL": "http://gtsrsdk.vedaslabs.com",
+    "fromMail": "gtsrsdk@gmail.com"
+}
